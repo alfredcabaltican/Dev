@@ -5,7 +5,7 @@
 			
 			global $DB_HOSTNAME, $DB_USERNAME, $DB_PASSWORD, $DB_NAME;
 			
-			$DB_HOSTNAME = "192.168.8.100";			
+			$DB_HOSTNAME = "192.168.8.101";			
 			$DB_NAME = "atlantis_concierge";
 			$DB_USERNAME = "root";
 			$DB_PASSWORD = "";
